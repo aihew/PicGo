@@ -1,1 +1,1 @@
-# picgo.aihew.com
+# image.aihew.net
